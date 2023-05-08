@@ -1,2 +1,2 @@
-Name: Shridhar Bhat
+Name: Jon Doe
 Certification: Meta: React Native Specialisation
